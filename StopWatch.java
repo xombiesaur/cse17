@@ -19,7 +19,7 @@ public class StopWatch {
 	/* Main method that starts the user interface
 	*/
 	public static void main(String [] args) {
-		stopWatch programStart = New Stopwatch();
+		quizStart programStart = New quizStart();
 		userInterface();
 	}
 	/* Asks the user for their name and starts the quiz
