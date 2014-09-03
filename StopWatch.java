@@ -7,9 +7,19 @@ Program Discription; Stop Watch And Math Test
 */
 
 public class StopWatch {
+	boolean running;
+	public quizStart(){
+		startTime = System.currentTimeMillis;
+		timedMs = 0;
+		running = true;
+	}
 	public static void main(String [] args) {
 		userInterface();
 	}
 	public static userInterface{
-		
+	
+	}
+	public static getElapsedTime(){
+	
+	}
 }
