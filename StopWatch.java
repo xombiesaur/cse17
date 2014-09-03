@@ -36,6 +36,7 @@ public class StopWatch {
 	/*checks to see how much time has passed since the start
 	*/
 	public static int getElapsedTime(){
+    Int nowTime
 	
 	}
 	
